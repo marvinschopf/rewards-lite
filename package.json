@@ -4,9 +4,9 @@
   "description": "This package lets you easily add micro-interactions to your app and reward users with the rain of confetti or flying emoji in seconds.",
   "author": "Marvin Schopf <marvin@schopf.biz>",
   "license": "MIT",
-  "homepage": "https://github.com/marvinschopf/react-rewards-lite",
+  "homepage": "https://github.com/marvinschopf/rewards-lite",
   "repository": {
-    "url": "https://github.com/marvinschopf/react-rewards-lite"
+    "url": "https://github.com/marvinschopf/rewards-lite"
   },
   "keywords": [
     "react",
