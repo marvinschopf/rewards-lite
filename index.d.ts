@@ -21,7 +21,7 @@ export type RewardConfig = {
 
 export type RewardProps = {
     ref: Ref<RewardElement>
-    type?: 'confetti' | 'emoji' | 'memphis'
+    type?: 'confetti' | 'emoji'
     config?: RewardConfig
 }
 

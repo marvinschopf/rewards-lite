@@ -4,7 +4,6 @@ import posed from 'react-pose'
 
 import confetti from './Confetti'
 import emoji from './Emoji'
-import memphis from './Memphis'
 
 const transition = {
   type: 'spring',
@@ -19,10 +18,6 @@ const SpringAnim = posed.div({
   },
   emoji: {
     y: 5,
-    transition
-  },
-  memphis: {
-    scale: 1.1,
     transition
   },
   punished: {
@@ -54,11 +49,6 @@ export default class Reward extends Component {
       case 'emoji': {
         this.handleAnimation(type)
         emoji(...props)
-        break
-      }
-      case 'memphis': {
-        this.handleAnimation(type)
-        memphis(this.lottieContainer, config)
         break
       }
       default: {
