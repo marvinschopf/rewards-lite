@@ -1,3 +1,3 @@
-import Reward from './components/Reward'
+import Reward from "./components/Reward";
 
-export default Reward
+export default Reward;
