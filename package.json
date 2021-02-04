@@ -1,6 +1,6 @@
 {
   "name": "rewards-lite",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package lets you easily add micro-interactions to your app and reward users with the rain of confetti or flying emoji in seconds.",
   "author": "Marvin Schopf <marvin@schopf.biz>",
   "license": "MIT",
