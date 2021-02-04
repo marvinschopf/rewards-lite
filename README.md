@@ -13,4 +13,4 @@ npm install rewards-lite
 ```
 
 ## Usage
-The usage and API is the same as from [`react-rewards`](https://github.com/thedevelobear/react-rewards), except for the removed Memphis animation.
+The usage and API is the same as from [`react-rewards`](https://www.npmjs.com/package/react-rewards), except for the removed Memphis animation.
